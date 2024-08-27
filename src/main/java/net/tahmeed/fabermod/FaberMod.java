@@ -44,6 +44,9 @@ public class FaberMod {
             if (event.getTabKey() == CreativeModeTabs.INGREDIENTS){
                 event.accept(ModItems.SAPPHIRE);
                 event.accept(ModItems.RAW_SAPPHIRE);
+                event.accept(ModItems.AMEDYRE);
+                event.accept(ModItems.RAW_AMEDYRE);
+
 
             }
     }

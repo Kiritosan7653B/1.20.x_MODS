@@ -20,7 +20,8 @@ public class ModCreativeModeTab {
                     .displayItems((pParameter,pOutput) -> {
                         pOutput.accept(ModItems.SAPPHIRE.get());
                         pOutput.accept(ModItems.RAW_SAPPHIRE.get());
-                        pOutput.accept(Items.ACACIA_DOOR);
+                        pOutput.accept(ModItems.AMEDYRE.get());
+                        pOutput.accept(ModItems.RAW_AMEDYRE.get());
 
 
                     })

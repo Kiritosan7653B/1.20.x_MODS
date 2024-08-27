@@ -1,6 +1,8 @@
 {
   "item.fabermod.sapphire" : "Sapphire",
   "item.fabermod.raw_sapphire" : "Raw Sapphire",
-  "creativetab.faber_mod": "Sapphire Tab"
+  "item.fabermod.amedyre" : "Amedyre",
+  "item.fabermod.raw_amedyre" : "Raw Amedyre",
+  "creativetab.faber_mod": "Ore Tab"
 
 }
