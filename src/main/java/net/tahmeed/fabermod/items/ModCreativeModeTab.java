@@ -22,6 +22,10 @@ public class ModCreativeModeTab {
                         pOutput.accept(ModItems.RAW_SAPPHIRE.get());
                         pOutput.accept(ModItems.AMEDYRE.get());
                         pOutput.accept(ModItems.RAW_AMEDYRE.get());
+                        pOutput.accept(ModBlocks.SAPPHIRE_BLOCK.get());
+                        pOutput.accept(ModBlocks.RAW_SAPPHIRE_BLOCK.get());
+                        pOutput.accept(ModBlocks.AMEDYRE_BLOCK.get());
+                        pOutput.accept(ModBlocks.RAW_AMEDYRE_BLOCK.get());
 
 
                     })

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fabermod:amedyre_block"
+    }
+  ],
+  "result": {
+    "item": "fabermod:amedyre",
+    "count": 9
+  }
+
+}

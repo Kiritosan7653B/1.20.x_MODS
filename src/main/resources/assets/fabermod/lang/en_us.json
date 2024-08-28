@@ -3,6 +3,10 @@
   "item.fabermod.raw_sapphire" : "Raw Sapphire",
   "item.fabermod.amedyre" : "Amedyre",
   "item.fabermod.raw_amedyre" : "Raw Amedyre",
-  "creativetab.faber_mod": "Ore Tab"
+  "creativetab.faber_mod": "Ore Tab",
+  "block.fabermod.sapphire_block": "Block of Sapphire",
+  "block.fabermod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.fabermod.amedyre_block": "Block of Amedyre",
+  "block.fabermod.raw_amedyre_block": "Block of Raw Amedyre"
 
 }

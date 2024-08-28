@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fabermod:block/raw_amedyre_block"
+  }
+}
