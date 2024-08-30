@@ -1,12 +1,24 @@
 {
   "item.fabermod.sapphire" : "Sapphire",
   "item.fabermod.raw_sapphire" : "Raw Sapphire",
+
   "item.fabermod.amedyre" : "Amedyre",
   "item.fabermod.raw_amedyre" : "Raw Amedyre",
-  "creativetab.faber_mod": "Ore Tab",
+
+  "creativetab.faber_mod": "Faber Mod",
+
   "block.fabermod.sapphire_block": "Block of Sapphire",
   "block.fabermod.raw_sapphire_block": "Block of Raw Sapphire",
-  "block.fabermod.amedyre_block": "Block of Amedyre",
-  "block.fabermod.raw_amedyre_block": "Block of Raw Amedyre"
 
+  "block.fabermod.amedyre_block": "Block of Amedyre",
+  "block.fabermod.raw_amedyre_block": "Block of Raw Amedyre",
+
+  "block.fabermod.sapphire_ore": "Sapphire Ore",
+  "block.fabermod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.fabermod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+  "block.fabermod.nether_sapphire_ore": "Nether Sapphire Ore",
+
+
+  "item.fabermod.metal_detector": "Metal Detector",
+  "block.fabermod.sound_block": "Sound Block"
 }

@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.tahmeed.fabermod.items.ModBlocks;
+import net.tahmeed.fabermod.blocks.ModBlocks;
 import net.tahmeed.fabermod.items.ModCreativeModeTab;
 import net.tahmeed.fabermod.items.ModItems;
 import org.slf4j.Logger;

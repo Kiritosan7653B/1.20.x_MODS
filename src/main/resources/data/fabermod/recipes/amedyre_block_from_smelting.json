@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "amedyre",
+  "ingredient": {
+    "item": "fabermod:raw_amedyre_block"
+  },
+  "result": "fabermod:amedyre_block"
+}
