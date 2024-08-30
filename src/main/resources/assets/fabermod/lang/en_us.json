@@ -1,7 +1,6 @@
 {
   "item.fabermod.sapphire" : "Sapphire",
   "item.fabermod.raw_sapphire" : "Raw Sapphire",
-
   "item.fabermod.amedyre" : "Amedyre",
   "item.fabermod.raw_amedyre" : "Raw Amedyre",
 
@@ -9,9 +8,10 @@
 
   "block.fabermod.sapphire_block": "Block of Sapphire",
   "block.fabermod.raw_sapphire_block": "Block of Raw Sapphire",
-
   "block.fabermod.amedyre_block": "Block of Amedyre",
   "block.fabermod.raw_amedyre_block": "Block of Raw Amedyre",
+
+
 
   "block.fabermod.sapphire_ore": "Sapphire Ore",
   "block.fabermod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
@@ -20,5 +20,11 @@
 
 
   "item.fabermod.metal_detector": "Metal Detector",
-  "block.fabermod.sound_block": "Sound Block"
+  "block.fabermod.sound_block": "Sound Block",
+
+  "item.fabermod.strawberry": "Strawberry",
+
+  "item.fabermod.pine_cone": "Pine Cone",
+  "tooltip.fabermod.metal_detector.tooltip": "Finds Valuable Ores"
+
 }
