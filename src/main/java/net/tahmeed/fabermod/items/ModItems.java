@@ -30,7 +30,7 @@ public class ModItems {
     public static final RegistryObject<Item> PINE_CONE = ITEMS.register("pine_cone",
             ()-> new FuelItem( new Item.Properties(), 400));
     public static final RegistryObject<Item> OIL_DRUM = ITEMS.register("oil_drum",
-            ()-> new FuelItem( new Item.Properties(), 2000));
+            ()-> new FuelItem( new Item.Properties(), 12000));
 
 
     public static final RegistryObject<Item> METAL_DETECTOR = ITEMS.register("metal_detector",
