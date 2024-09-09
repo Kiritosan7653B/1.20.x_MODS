@@ -27,6 +27,8 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
             ModBlocks.NETHER_SAPPHIRE_ORE.get(),
             ModBlocks.END_STONE_SAPPHIRE_ORE.get()
             );
+    private static List<ItemLike> AMEDYRE_SMELTABLES = List.of(ModItems.RAW_AMEDYRE.get()
+    );
 
 
     public ModRecipeProvider(PackOutput pOutput) {
@@ -37,6 +39,10 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
     protected void buildRecipes(Consumer<FinishedRecipe> pWriter) {
         oreSmelting(pWriter, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.SAPPHIRE.get(), 0.25f, 200,"sapphire" );
         oreBlasting(pWriter, SAPPHIRE_SMELTABLES, RecipeCategory.MISC, ModItems.SAPPHIRE.get(), 0.25f, 100,"sapphire" );
+
+        oreSmelting(pWriter, AMEDYRE_SMELTABLES, RecipeCategory.MISC, ModItems.AMEDYRE.get(), 0.25f, 200,"amedyre" );
+        oreBlasting(pWriter, AMEDYRE_SMELTABLES, RecipeCategory.MISC, ModItems.AMEDYRE.get(), 0.25f, 100,"amedyre" );
+
 
         ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.SAPPHIRE_BLOCK.get())
                 .pattern("SSS")
@@ -49,6 +55,19 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.SAPPHIRE.get(), 9)
                 .requires(ModBlocks.SAPPHIRE_BLOCK.get())
                 .unlockedBy(getHasName(ModBlocks.SAPPHIRE_BLOCK.get()), has(ModBlocks.SAPPHIRE_BLOCK.get()))
+                .save(pWriter);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModBlocks.AMEDYRE_BLOCK.get())
+                .pattern("SSS")
+                .pattern("SSS")
+                .pattern("SSS")
+                .define('S' , ModItems.AMEDYRE.get())
+                .unlockedBy(getHasName(ModItems.AMEDYRE.get()), has(ModItems.AMEDYRE.get()))
+                .save(pWriter);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.AMEDYRE.get(), 9)
+                .requires(ModBlocks.AMEDYRE_BLOCK.get())
+                .unlockedBy(getHasName(ModBlocks.AMEDYRE_BLOCK.get()), has(ModBlocks.AMEDYRE_BLOCK.get()))
                 .save(pWriter);
     }
 

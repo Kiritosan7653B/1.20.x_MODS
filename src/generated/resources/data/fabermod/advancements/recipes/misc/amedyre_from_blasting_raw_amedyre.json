@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_amedyre": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "fabermod:raw_amedyre"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "fabermod:amedyre_from_blasting_raw_amedyre"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_amedyre",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "fabermod:amedyre_from_blasting_raw_amedyre"
+    ]
+  },
+  "sends_telemetry_event": false
+}

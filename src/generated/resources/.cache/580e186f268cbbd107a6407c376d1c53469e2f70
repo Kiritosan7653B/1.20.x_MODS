@@ -1,0 +1,11 @@
+// 1.20.1	2024-09-01T19:49:41.8607464	Tags for minecraft:block mod id fabermod
+7273bc13ad845ddf590dfabce8c4e092996382de data/fabermod/tags/blocks/metal_detector_valuables.json
+682fb19ba0fb72060e5b97997857a5f5988243a7 data/fabermod/tags/blocks/needs_sapphire_tool.json
+d650f6300de67b06e45c24698f671fa2b9b0d15a data/forge/tags/blocks/needs_netherite_tool.json
+5e076d9bf8ec77c68802f530e7f371a97423713e data/minecraft/tags/blocks/fences.json
+57d7e091eccf7f5aed4e55ed4fd62759d0aeb4e5 data/minecraft/tags/blocks/fence_gates.json
+5500ce46d0e68aa0ba8898cd28c7bb7218a8e9cc data/minecraft/tags/blocks/mineable/pickaxe.json
+6028c4ff78285c1dcf1789ea159510f81c0cd69e data/minecraft/tags/blocks/needs_diamond_tool.json
+0c8e69880c43148f2117a7295ebd95bfd4f1f261 data/minecraft/tags/blocks/needs_iron_tool.json
+6b46a7741b4bbc440e47124089d1d0efca380d0c data/minecraft/tags/blocks/needs_stone_tool.json
+fc80ff106caabb18cb92a37b298d3f96fc61e421 data/minecraft/tags/blocks/walls.json

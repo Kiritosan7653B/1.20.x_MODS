@@ -25,6 +25,28 @@
   "item.fabermod.strawberry": "Strawberry",
 
   "item.fabermod.pine_cone": "Pine Cone",
-  "tooltip.fabermod.metal_detector.tooltip": "Finds Valuable Ores"
+  "tooltip.fabermod.metal_detector.tooltip": "Finds Valuable Ores",
 
+  "block.fabermod.sapphire_stairs": "Sapphire Stairs",
+  "block.fabermod.sapphire_slab": "Sapphire Slab",
+  "block.fabermod.sapphire_button": "Sapphire Button",
+  "block.fabermod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.fabermod.sapphire_fence": "Sapphire Fence",
+  "block.fabermod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.fabermod.sapphire_wall": "Sapphire Wall",
+  "block.fabermod.sapphire_door": "Sapphire Door",
+  "block.fabermod.sapphire_trap_door": "Sapphire Trapdoor",
+
+  "item.fabermod.sapphire_staff": "Sapphire Staff",
+
+  "item.fabermod.sapphire_sword": "Sapphire Sword",
+  "item.fabermod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.fabermod.sapphire_axe": "Sapphire Axe",
+  "item.fabermod.sapphire_shovel": "Sapphire Shovel",
+  "item.fabermod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.tutorialmod.sapphire_helmet": "Sapphire Helmet",
+  "item.tutorialmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.tutorialmod.sapphire_leggings": "Sapphire Leggings",
+  "item.tutorialmod.sapphire_boots": "Sapphire Boots"
 }

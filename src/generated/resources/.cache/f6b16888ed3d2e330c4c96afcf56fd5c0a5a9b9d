@@ -1,0 +1,6 @@
+// 1.20.1	2024-09-05T22:42:36.189381	Global Loot Modifiers : fabermod
+d9c30497721dfa70ba82ec1f7759b199da2decd1 data/fabermod/loot_modifiers/metal_detector_from_jungle_temple.json
+f7bdf411b0b894227ee22cf065cd981867fbe8ca data/fabermod/loot_modifiers/metal_detector_from_sus_sand.json
+27c818780874ae109f16db1b867b20e92ffb1cc7 data/fabermod/loot_modifiers/pine_cone_from_creeper.json
+81d39c26904191d9e344900f1b102fde5fedc2b8 data/fabermod/loot_modifiers/pine_cone_from_grass.json
+4552ab0e95d6b6ea290c68d31603c5af64b57372 data/forge/loot_modifiers/global_loot_modifiers.json

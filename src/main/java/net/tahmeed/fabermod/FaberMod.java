@@ -15,6 +15,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.tahmeed.fabermod.blocks.ModBlocks;
 import net.tahmeed.fabermod.items.ModCreativeModeTab;
 import net.tahmeed.fabermod.items.ModItems;
+import net.tahmeed.fabermod.loot.ModLootModifiers;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -29,6 +30,8 @@ public class FaberMod {
         ModCreativeModeTab.register(modEventBus);
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModLootModifiers.register(modEventBus);
+
 
         modEventBus.addListener(this::commonSetup);
 

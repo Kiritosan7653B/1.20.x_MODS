@@ -1,0 +1,13 @@
+{
+  "values": [
+    "fabermod:sapphire_block",
+    "fabermod:raw_sapphire_block",
+    "fabermod:amedyre_block",
+    "fabermod:raw_amedyre_block",
+    "fabermod:sapphire_ore",
+    "fabermod:nether_sapphire_ore",
+    "fabermod:end_stone_sapphire_ore",
+    "fabermod:deepslate_sapphire_ore",
+    "fabermod:sound_block"
+  ]
+}
